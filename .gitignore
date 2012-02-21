@@ -1,0 +1,11 @@
+
+*.csproj.user
+*.ReSharper.user
+*.suo
+desktop.ini
+_ReSharper*
+obj/
+bin/
+App_Data/
+*.*.TeamCity.user
+*.sln.DotSettings.user
